@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng (Patrick) Zan / Dr."
+title                    : "Peng (Patrick) Zan / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Peng Zan"
-description              : &description "Principal Data Analyst at Origin Wireless AI"
-url                      : https://peng_zan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Full-time Principal Data Analytist (Scientist + Engineer), Part-time Auditory Neuroscientist"
+url                      : https://pengzan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "peng_zan.github.io"
+repository               : "pengzan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Peng Zan"
   avatar           : "profile.png"
-  bio              : "Principal Data Analyst at Origin Wireless AI"
+  bio              : "Principal Data Analytist (Scientist + Engineer) at Origin Wireless AI"
   location         : "College Park, Maryland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=LeuGkgUAAAAJ&hl=en&oi=ao"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=LeuGkgUAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Peng_Zan2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peng_zan"
+  github           : "patrickzan"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zan_peng"
   vine             :
   weibo            :
   xing             :

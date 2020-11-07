@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Here](http://patrickzan.github.io/files/resume.pdf)'s a PDF version of my CV.
 {% include base_path %}
 
 Education

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng (Patrick) Zan"
+title                    : "Peng Zan"
 title_separator          : "-"
 name                     : &name "Peng Zan"
 description              : &description "Full-time Principal Data Analytist (Scientist + Engineer), Part-time Auditory Neuroscientist"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Peng Zan"
-  avatar           : "images/profile_pic2.jpeg"
+  avatar           : "profile_pic2.png"
   bio              : "Principal Data Analytist (Scientist + Engineer) at Origin Wireless AI"
   location         : "College Park, Maryland"
   employer         :

@@ -8,14 +8,11 @@ date: 2015-01-25
 location: "College Park, U.S."
 ---
 
-I led a weekly lab session, where I help my students:
+I led a weekly lab session, where I help my students (my class had the highest average score in the final exam among all 7 classes, and they surpassed the second place for about 10 points! I'm so proud of them!):
 - Review lectures,
 - Demonstrate building analog circuits,
 - Grade students' experiment reports,
-- Hold office-hour Q&A.  
-
-My class had the highest average score in the final exam among all 7 classes, and they surpassed the second place for about 10 points! I'm very proud of them!
-
+- Hold office-hour Q&A.
 
 My Duties
 ======

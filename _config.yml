@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Zan"
+title                    : "Peng (Patrick) Zan"
 title_separator          : "-"
-name                     : &name "Peng Zan"
+name                     : &name "Peng (Patrick) Zan"
 description              : &description "Full-time Principal Data Analytist (Scientist + Engineer), Part-time Auditory Neuroscientist"
 url                      : https://patrickzan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peng Zan"
+  name             : "Peng (Patrick) Zan"
   avatar           : "profile_pic2.png"
-  bio              : "Principal Data Analytist (Scientist + Engineer), Auditory Neuroscientist"
+  bio              : "Principal Data Scientist (Analytist), Auditory Neuroscientist"
   location         : "College Park, Maryland"
   employer         : "Origin Wireless AI"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

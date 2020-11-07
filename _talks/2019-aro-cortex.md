@@ -1,7 +1,7 @@
 ---
 title: "Cortical Over-representation of Speech in Older Listeners Correlates with a Reduction in both Behavioral Inhibition and Speech Intelligibility"
 collection: talks
-type: "Talk"
+type: "Talk and Presentation"
 permalink: /talks/2019-aro-cortex
 venue: "Baltimore Marriott Waterfront, ARO 42nd Annual Midwinter Meeting"
 date: 2019-02-12

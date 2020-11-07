@@ -1,7 +1,7 @@
 ---
 title: "Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain"
 collection: talks
-type: "Talk"
+type: "Poster Prensetation"
 permalink: /talks/2019-aro-midbrain
 venue: "Baltimore Marriott Waterfront, ARO 42nd Annual Midwinter Meeting"
 date: 2019-02-09

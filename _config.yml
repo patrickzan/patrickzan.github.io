@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Peng Zan"
+  name             : "Peng Zan"
   avatar           : "profile_pic2.png"
   bio              : "Principal Data Analytist (Scientist + Engineer), Auditory Neuroscientist"
   location         : "College Park, Maryland"
-  employer         :
+  employer         : "Origin Wireless AI"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LeuGkgUAAAAJ&hl=en"
-  email            :
+  email            : "zanpeng.pz@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Peng_Zan2"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/peng-zan-43ba9380/"
   orcid            : "https://orcid.org/0000-0002-1607-4376"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCdYaSPUvs24d5R-IiWOPrnQ?view_as=subscriber"
   wikipedia        :
 
 

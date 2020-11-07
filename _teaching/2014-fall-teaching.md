@@ -9,10 +9,10 @@ location: "College Park, U.S."
 ---
 
 I led a weekly recitation session, where I help students: 
-- Review lectures
-- Demonstrate example problems and derivations
-- Grade students' homework
-- Hold office-hour Q&A
+- Review lectures,
+- Demonstrate example problems and derivations,
+- Grade students' homework,
+- Hold office-hour Q&A.
 
 My Duties
 ======

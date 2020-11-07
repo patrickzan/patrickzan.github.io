@@ -98,7 +98,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Selected Awards & Honors
+Selected awards & honors
 ======
 * Starkey Recognition Award, Starkey, 08/2019
 * COMBINE Traveling Award, UMD, 12/2018

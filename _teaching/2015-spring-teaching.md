@@ -7,14 +7,15 @@ venue: "University of Maryland College Park, Department of Electrical and Comput
 date: 2015-01-25
 location: "College Park, U.S."
 ---
-
+<p>
 I led a weekly lab session, where I help my students:
 - Review lectures,
 - Demonstrate building analog circuits,
 - Grade students' experiment reports,
-- Hold office-hour Q&A.
-<br>
+- Hold office-hour Q&A.  
+
 My class had the highest average score in the final exam among all 7 classes, and they surpassed the second place for about 10 points! I'm very proud of them!
+</p>
 
 My Duties
 ======

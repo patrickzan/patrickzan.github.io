@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electrical Engineering, Xi'an Jiaotong University, 2014
 * M.S. in Electrical and Computer Engineering, University of Mayrland, College Park, 2019
-* Ph.D in Electrical and Computer Engineering, University of Maryland, College Park, 2019
+* Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, 2019
 
 Work experience
 ======

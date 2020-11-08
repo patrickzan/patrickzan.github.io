@@ -1,6 +1,6 @@
 ---
 title: "Locally Linear Detail Injection for Pansharpening"
-collection: publications
+collection: research
 permalink: /publication/2017-06-07-pansharpening
 excerpt: 'This paper proposes a novel method for pansharpening.'
 date: 2017-06-07

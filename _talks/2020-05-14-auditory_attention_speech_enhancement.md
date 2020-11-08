@@ -1,12 +1,12 @@
 ---
 title: "Evaluation of Joint Auditory Attention Decoding and Adaptive Binaural Beamforming Approach for Hearing Devices with Attention Switching"
-collection: publications
-permalink: /publication/2020-05-14-auditory_attention_speech_enhancement
+type: "Conference Paper"
+collection: talks
+permalink: /talks/2020-05-14-auditory_attention_speech_enhancement
 excerpt: 'This paper proposes a joint approach for auditory attention detection and speech enhancement.'
 date: 2020-05-14
-venue: 'CASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain'
-paperurl: 'http://patrickzan.github.io/files/auditory_attention_speech_enhancement.pdf'
-citation: 'Wenqiang Pu, Peng Zan, Jinjun Xiao, Tao Zhang, Zhi-Quan Luo. (2020). &quot;Evaluation of Joint Auditory Attention Decoding and Adaptive Binaural Beamforming Approach for Hearing Devices with Attention Switching.&quot; <i>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. pp. 8728-8732, doi: 10.1109/ICASSP40776.2020.9054592.'
+venue: 'ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+location: "Barcelona, Spain"
 ---
 
 Abstract

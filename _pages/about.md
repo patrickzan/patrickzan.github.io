@@ -20,4 +20,8 @@ I obtained my Ph.D. and M.Sc. degrees in Electrical Engineering from University 
 - Internet of Things
 
 ## Projects
-I will update my projects in my [blog posts](https://patrickzan.github.io/year-archive/) and [twitter](https://twitter.com/zan_peng). Please follow me if you are interested. 
+- WiFi-Sensing for Home Security and Wellbeing Monitoring
+- DNN-based Speech Enhancement
+- Joint Approach of Auditory Attention Decoding and Speech Enhancement
+- Mutual Information Analysis of Auditory Brain Responses and Effects of Aging
+- Machine Learning Applications in Auditory Research

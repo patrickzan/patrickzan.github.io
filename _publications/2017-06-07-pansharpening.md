@@ -1,12 +1,12 @@
 ---
 title: "Locally Linear Detail Injection for Pansharpening"
 collection: publications
-permalink: /publication/2017-06-07-pansharpening
+permalink: /research/2017-06-07-pansharpening
 excerpt: 'This paper proposes a novel method for pansharpening.'
 date: 2017-06-07
 venue: 'IEEE Access'
-paperurl: 'http://patrickzan.github.io/files/pansharpening.pdf'
-citation: 'Junmin Liu, Yongchang Hui, and Peng Zan. (2017). &quot;Locally Linear Detail Injection for Pansharpening.&quot; <i>IEEE Access</i>, vol. 5, pp. 9728-9738.'
+# paperurl: 'http://patrickzan.github.io/files/pansharpening.pdf'
+# citation: 'Junmin Liu, Yongchang Hui, and Peng Zan. (2017). &quot;Locally Linear Detail Injection for Pansharpening.&quot; <i>IEEE Access</i>, vol. 5, pp. 9728-9738.'
 ---
 
 Abstract

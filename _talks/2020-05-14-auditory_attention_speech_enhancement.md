@@ -2,7 +2,7 @@
 title: "Evaluation of Joint Auditory Attention Decoding and Adaptive Binaural Beamforming Approach for Hearing Devices with Attention Switching"
 type: "Conference Paper"
 collection: talks
-permalink: /talks/2020-05-14-auditory_attention_speech_enhancement
+permalink: /research/2020-05-14-auditory_attention_speech_enhancement
 excerpt: 'This paper proposes a joint approach for auditory attention detection and speech enhancement.'
 date: 2020-05-14
 venue: 'ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'

@@ -2,7 +2,7 @@
 title: "Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain"
 collection: talks
 type: "Poster Presentation"
-permalink: /talks/2018-09-08-splash_midbrain
+permalink: /research/2018-09-08-splash_midbrain
 venue: "University of Pennsylvania, Auditory SPLASH"
 date: 2018-09-08
 location: "Philadelphia, Pennsylvania"

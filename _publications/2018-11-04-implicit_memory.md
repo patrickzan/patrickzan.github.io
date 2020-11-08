@@ -1,12 +1,12 @@
 ---
 title: "Implicit Memory for Complex Sounds in Higher Auditory Cortex of the Ferret"
 collection: publications
-permalink: /publication/2018-11-04-implicit_memory
+permalink: /research/2018-11-04-implicit_memory
 excerpt: 'This paper is about implicit memory of auditory stimulus in ferret auditory cortex.'
 date: 2018-11-04
 venue: 'Journal of Neuroscience'
-paperurl: 'http://patrickzan.github.io/files/implicit_memory.pdf'
-citation: 'Kai Lu, Wanyi Liu, Peng Zan, Stephen V. David, Jonathan B Fritz, and Shihab A. Shamma. (2018). &quot;Implicit Memory for Complex Sounds in Higher Auditory Cortex of the Ferret.&quot; <i>Journal of Neuroscience</i>. 38(46):9955–9966.'
+# paperurl: 'http://patrickzan.github.io/files/implicit_memory.pdf'
+# citation: 'Kai Lu, Wanyi Liu, Peng Zan, Stephen V. David, Jonathan B Fritz, and Shihab A. Shamma. (2018). &quot;Implicit Memory for Complex Sounds in Higher Auditory Cortex of the Ferret.&quot; <i>Journal of Neuroscience</i>. 38(46):9955–9966.'
 ---
 
 Abstract

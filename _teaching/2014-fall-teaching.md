@@ -7,10 +7,12 @@ venue: "University of Maryland College Park, Department of Electrical and Comput
 date: 2014-08-25
 location: "College Park, U.S."
 excerpt: "I led a weekly recitation session, where I help students: 
-- Review lectures,
-- Demonstrate example problems and derivations,
-- Grade students' homework,
-- Hold office-hour Q&A."
+<ul>
+    <li>Review lectures,</li>
+    <li>Demonstrate example problems and derivations,</li>
+    <li>Grade students' homework,</li>
+    <li>Hold office-hour Q&A.</li>
+</ul>"
 ---
 
 My Duties

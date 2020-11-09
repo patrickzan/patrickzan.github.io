@@ -3,6 +3,7 @@ title: "Mutual Information Analysis of Neural Representations of Speech in Noise
 collection: talks
 type: "Poster Presentation"
 permalink: /research/2018-09-08-splash_midbrain
+excerpt: 'This presentation talks about aging effects on auditory midbrain responses.'
 venue: "University of Pennsylvania, Auditory SPLASH"
 date: 2018-09-08
 location: "Philadelphia, Pennsylvania"

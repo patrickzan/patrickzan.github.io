@@ -3,6 +3,7 @@ title: "Cortical Over-representation of Speech in Older Listeners Correlates wit
 collection: talks
 type: "Talk and Presentation"
 permalink: /research/2019-aro-cortex
+excerpt: 'This presentation talks about aging effects on auditory cortical responses.'
 venue: "Baltimore Marriott Waterfront, ARO 42nd Annual Midwinter Meeting"
 date: 2019-02-12
 location: "Baltimore, Maryland"

@@ -3,6 +3,7 @@ title: "Mutual Information Analysis of Neural Representations of Speech in Noise
 collection: talks
 type: "Poster Prensetation"
 permalink: /research/2019-aro-midbrain
+excerpt: 'This presentation talks about aging effects on auditory midbrain responses.'
 venue: "Baltimore Marriott Waterfront, ARO 42nd Annual Midwinter Meeting"
 date: 2019-02-09
 location: "Baltimore, Maryland"

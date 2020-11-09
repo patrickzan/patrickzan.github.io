@@ -6,13 +6,12 @@ permalink: /teaching/2014-fall-teaching
 venue: "University of Maryland College Park, Department of Electrical and Computer Engineering"
 date: 2014-08-25
 location: "College Park, U.S."
----
-
-I led a weekly recitation session, where I help students: 
+excerpt: "I led a weekly recitation session, where I help students: 
 - Review lectures,
 - Demonstrate example problems and derivations,
 - Grade students' homework,
-- Hold office-hour Q&A.
+- Hold office-hour Q&A."
+---
 
 My Duties
 ======

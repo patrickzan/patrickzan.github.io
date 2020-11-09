@@ -6,19 +6,21 @@ permalink: /teaching/2015-spring-teaching
 venue: "University of Maryland College Park, Department of Electrical and Computer Engineering"
 date: 2015-01-25
 location: "College Park, U.S."
----
-
-I led a weekly lab session, where I help my students (my class had the highest average score in the final exam among all 7 classes, and they surpassed the second place for about 10 points! I'm so proud of them!):
+excerpt: "I led a weekly lab session, where I help my students:
 - Review lectures,
 - Demonstrate building analog circuits,
-- Grade students' experiment reports,
-- Hold office-hour Q&A.
+- Grade students' experiment reports and exams,
+- Hold office-hour Q&A.  
+My class had the highest average score in the final exam among all 7 classes, and they surpassed the second place for about 10 points! I'm so proud of them!"
+---
+
+
 
 My Duties
 ======
 - Review lectures
 - Demonstrate building analog circuits
-- Grade students' experiment reports
+- Grade students' experiment reports and exams
 - Hold office-hour Q&A
 
 Description

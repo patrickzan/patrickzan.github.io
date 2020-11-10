@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<body text="#000000">
 [Here](http://patrickzan.github.io/files/resume.pdf)'s a PDF version.
 {% include base_path %}
 
@@ -101,7 +102,7 @@ Conferences
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-<ol style="color: gray">
+<ol style="color: black">
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00002.2020" style="color: black">Exaggerated Cortical Representation of Speech in Older Listeners: Mutual Information Analysis</a>. <i>Journal of Neurophysiology, 124(4):1152-1164, 2020</i>.</li>
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00270.2019" style="color: black">Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain</a>. <i>Journal of Nuerophysiology, 122(6):2372-2387, 2019</i>.</li>
   <li>Kai Lu, Wanyi Liu, Kelsey Dutta, <strong>Peng Zan</strong>, Jonathan B Fritz, and Shihab A. Shamma. <a href="https://www.jneurosci.org/content/39/44/8664" style="color: black">Adaptive Efficient Coding of Correlated Acoustic Properties</a>. <i>Journal of Neuroscience, 39(44):8664–8678, 2019</i>.</li>

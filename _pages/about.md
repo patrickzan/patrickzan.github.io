@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+> "He holds success in store for the upright, he is a shield to those whose walk is blameless." - Proverbs 2:7 NIV
+
 ## Bio
 Hello! Welcome to my personal webpage! I am currently a Principal Data Scientist at [Origin Wireless AI](https://www.originwirelessai.com), which was founded by [Prof. K.J. Ray Liu](http://www.cspl.umd.edu/kjrliu/), the [current IEEE president](https://www.ieee.org/about/corporate/election/index.html). I work with the Algorithm team at Origin, and my work includes wirelss sensing research, machine learning algorithm development and engineering implementations.  
 

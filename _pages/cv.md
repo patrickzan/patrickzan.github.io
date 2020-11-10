@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 02/2020 - Present: Principal Data Analytist (Scientist + Engineer)
+* 02/2020 - Present: Principal Data Scientist
   * Origin Wireless AI, Greenbelt, MD
   * WiFi-sensing for home security
     * Designed and optimized motion localization algorithm for WiFi-sensing devices.

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> "He holds success in store for the upright, he is a shield to those whose walk is blameless." - Proverbs 2:7 NIV
+> "He holds success in store for the upright, He is a shield to those whose walk is blameless." - Proverbs 2:7 NIV
 
 ## Bio
 Hello! Welcome to my personal webpage! I am currently a Principal Data Scientist at <a href="https://www.originwirelessai.com" style="text-decoration: none">Origin Wireless AI</a>, founded by <a href="http://www.cspl.umd.edu/kjrliu/" style="text-decoration: none">Prof. K.J. Ray Liu</a>, the <a href="https://www.ieee.org/about/corporate/election/index.html" style="text-decoration: none">current IEEE president</a>. I work with the Algorithm team at Origin, and my work includes wirelss sensing research, machine learning algorithm development and engineering implementations.

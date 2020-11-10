@@ -5,8 +5,9 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+style: "color=black"
 ---
-<span style="color:black">
+<body style="color:black">
 [Here](http://patrickzan.github.io/files/resume.pdf)'s a PDF version.
 {% include base_path %}
 
@@ -137,4 +138,4 @@ Selected awards & honors
 * ECE Ph.D. Fellowship Award, UMD, 09/2014
 
 
-</span>
+</body>

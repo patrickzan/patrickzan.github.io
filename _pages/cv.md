@@ -124,9 +124,11 @@ Conferences
 
 Teaching
 ======
+<span style="text-decoration: none">
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+</span>
   
 Selected awards & honors
 ======

@@ -119,7 +119,7 @@ Conferences
   <li>Wenqiang Pu, <strong>Peng Zan</strong>, Jinjun Xiao, Tao Zhang, Zhi-Quan Luo. <a href="https://ieeexplore.ieee.org/document/9054592" style="text-decoration: none">Evaluation of Joint Auditory Attention Decoding and Adaptive Binaural Beamforming Approach for Hearing Devices with Attention Switching</a>. <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, pp. 8728-8732, doi: 10.1109/ICASSP40776.2020.9054592, 2020</i>.</li>
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="http://cansl.isr.umd.edu/simonlab/pubs/ARO2019CortexMI.pdf" style="text-decoration: none">Cortical Over-representation of Speech in Older Listeners Correlates with a Reduction in both Behavioral Inhibition and Speech Intelligibility</a>. <i>ARO 42nd Annual Midwinter Meeting, Baltimore, Maryland, U.S., 2019</i>.</li> 
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="http://cansl.isr.umd.edu/simonlab/pubs/ARO2019MidbrainMI.pdf" style="text-decoration: none">Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain</a>. <i>ARO 42nd Annual Midwinter Meeting, Baltimore, Maryland, U.S., 2019</i>.</li> 
-  <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="http://cansl.isr.umd.edu/simonlab/pubs/SPLASH2018-MI-Midbrain.pdf" tyle="text-decoration: none">Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain</a>. <i>Auditory SPLASH, University of Pennsylvania, Philadelphia, Pennsylvania, U.S., 2018</i>.</li> 
+  <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="http://cansl.isr.umd.edu/simonlab/pubs/SPLASH2018-MI-Midbrain.pdf" style="text-decoration: none">Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain</a>. <i>Auditory SPLASH, University of Pennsylvania, Philadelphia, Pennsylvania, U.S., 2018</i>.</li> 
 </ol>
 
 Teaching
@@ -128,8 +128,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</span>
-  
+
 Selected awards & honors
 ======
 * Starkey Recognition Award, Starkey, 08/2019

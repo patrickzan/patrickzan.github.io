@@ -95,13 +95,13 @@ Conferences
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
 
-<h2 style="color: black">Publications</h2>
+<h1 style="color: black">Publications</h1>
 
-<h3 style="color: black">Journals</h3>
+<h2 style="color: black">Journals</h2>
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-<ol style="color: black">
+<ol style="color: gray">
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00002.2020" style="color: black">Exaggerated Cortical Representation of Speech in Older Listeners: Mutual Information Analysis</a>. <i>Journal of Neurophysiology, 124(4):1152-1164, 2020</i>.</li>
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00270.2019" style="color: black">Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain</a>. <i>Journal of Nuerophysiology, 122(6):2372-2387, 2019</i>.</li>
   <li>Kai Lu, Wanyi Liu, Kelsey Dutta, <strong>Peng Zan</strong>, Jonathan B Fritz, and Shihab A. Shamma. <a href="https://www.jneurosci.org/content/39/44/8664" style="color: black">Adaptive Efficient Coding of Correlated Acoustic Properties</a>. <i>Journal of Neuroscience, 39(44):8664–8678, 2019</i>.</li>
@@ -110,7 +110,7 @@ Conferences
   <li>Dai Wang, Xiaohong Guan, Jiang Wu, Pan Li, <strong>Peng Zan</strong>, and Hui Xu. <a href="https://ieeexplore.ieee.org/abstract/document/7154496" style="color: black">Integrated Energy Exchange Scheduling for Microgrids with Electric Vehicles</a>. <i>IEEE Transactions on Smart Grid, 7(4):1762-1774, 2015</i>.</li>
 </ol>
 
-<h3 style="color: black">Conferences</h3>
+<h2 style="color: black">Conferences</h2>
 <!-- {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->

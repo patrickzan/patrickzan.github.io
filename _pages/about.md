@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+style: "color=black"
 ---
 
 > "He holds success in store for the upright, he is a shield to those whose walk is blameless." - Proverbs 2:7 NIV

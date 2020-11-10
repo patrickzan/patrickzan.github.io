@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 style: "color=black"
 ---
-<body style="color:black">
 [Here](http://patrickzan.github.io/files/resume.pdf)'s a PDF version.
 {% include base_path %}
 
@@ -136,6 +135,3 @@ Selected awards & honors
 * NSF-Funded COMBINE Fellowship (Computational Biological Network Program), UMD, 09/2017
 * Jimmy H. C. Lin Graduate Scholarship for Entrepreneurship, UMD, 09/2014
 * ECE Ph.D. Fellowship Award, UMD, 09/2014
-
-
-</body>

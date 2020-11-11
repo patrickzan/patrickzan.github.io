@@ -1,7 +1,7 @@
 ---
 title: "Microgrid with Electric Vehicles"
-collection: research
-permalink: /research/2014-microgrid
+collection: projects
+permalink: /projects/2014-microgrid
 venue: "Xi'an Jiaotong University, Xi'an"
 date: 2017-01-01
 location: "Xi'an, China"

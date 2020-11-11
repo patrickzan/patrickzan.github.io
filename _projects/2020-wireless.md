@@ -1,7 +1,7 @@
 ---
 title: "Tracking and Localization without GPS"
-collection: research
-permalink: /research/2020-wireless
+collection: projects
+permalink: /projects/2020-wireless
 venue: "Algorithm Team, Origin Wireless AI"
 date: 2020-08-01
 location: "Greenbelt, MD"

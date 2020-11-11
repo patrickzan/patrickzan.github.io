@@ -1,7 +1,7 @@
 ---
 title: "Speech and Acoustics"
-collection: research
-permalink: /research/2019-05-27
+collection: projects
+permalink: /projects/2019-05-27
 venue: "Starkey Labs, Starkey Hearing Technologies"
 date: 2016-01-01
 location: "Eden Prairie, MN"

@@ -1,7 +1,7 @@
 ---
 title: "Image Pansharpening"
-collection: research
-permalink: /research/2017-image
+collection: projects
+permalink: /projects/2017-image
 venue: "Computational Sensorimotor Systems Laboratory (CSSL), University of Maryland, College Park"
 date: 2017-01-01
 location: "College Park, MD"

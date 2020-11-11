@@ -29,7 +29,7 @@ My research projects fall within signal processing field, but the research topic
 
 [Tracking without GPS](https://patrickzan.github.io/research/2020-wireless)            |  [Indoor Motion Pattern](https://patrickzan.github.io/research/2020-wireless)
 :-------------------------:|:-------------------------:
-<img src="projects/p1-tracking.png" width="500">  | <img src="projects/p1-tracking.png" width="500">  
+<img src="projects/p1-tracking.jpg" width="500">  | <img src="projects/p1-tracking.jpg" width="500">  
 
 
 <h3>Auditory Neuroscience</h3>

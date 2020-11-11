@@ -24,41 +24,25 @@ I obtained my Ph.D. and M.Sc. degrees in Electrical Engineering from University 
 <h2>Projects</h2>
 My research projects fall within signal processing field, but the research topics vary from wireless signals, neural signals to speech signals.
 
-<div style="width: 100%; margin-top: 15px;">
-  <div class="row">
-    <div class="column">
-      <div class="project-badge">
-        <a href="/research/"><img class="img-inline" src="projects/p1-tracking.jpg" width=100px height=100px object-fit="cover"></a>
-      </div>
-      <div class="project-details">
-        <a href="/research/" style="text-decoration: none">Wireless AI for IoT</a>
-      </div>
-    </div>
-    <div class="column">
-      <div class="project-badge">
-        <a href="/research/"><img class="img-inline" src="projects/p2-mi_cortex2.pdf" width=100px height=100px object-fit="cover"></a>
-      </div>
-      <div class="project-details">
-        <a href="/research/" style="text-decoration: none">Information Theory in Auditory Neuroscience</a>
-      </div>
-    </div>
-    <div class="column">
-      <div class="project-badge">
-        <a href="/research/"><img class="img-inline" src="projects/p3-memory1.jpg" width=100px height=100px object-fit="cover"></a>
-      </div>
-      <div class="project-details">
-        <a href="/research/" style="text-decoration: none">Machine Learning in Auditory Neuroscience</a>
-      </div>
-    </div>
-    <div class="column">
-      <div class="project-badge">
-        <a href="/research/"><img class="img-inline" src="projects/p4-joint.png" width=100px height=100px object-fit="cover"></a>
-      </div>
-      <div class="project-details">
-        <a href="/research/" style="text-decoration: none">Smart Hearing Aids Design using Auditory Attention</a>
-      </div>
-    </div>
-  </div>
-</div>
 
-Checkout <a href="/research/" style="text-decoration: none">here</a> for more research projects.
+<h3>Wireless AI for IoT (Ongoing)</h3>
+
+[Tracking without GPS](https://patrickzan.github.io/research/2020-wireless)            |  [Indoor Motion Pattern](https://patrickzan.github.io/research/2020-wireless)
+:-------------------------:|:-------------------------:
+<img src="projects/p1-tracking.png" width="500">  | <img src="projects/p1-tracking.png" width="500">  
+
+
+<h3>Auditory Neuroscience</h3>
+
+[Information Theory in Auditory Neuroscience](https://patrickzan.github.io/research/2017-2019-mi)             |  [Machine Learning in Auditory Neuroscience](https://patrickzan.github.io/research/2016-2019-ml)
+:-------------------------:|:-------------------------:
+<img src="projects/p2-mi_cortex2.pdf" width="500">   |  <img src="projects/p3-memory1.jpg" width="500">
+
+<h3>Speech and Acoustics</h3>
+
+[Smart Hearing Aids using Auditory Attention](https://patrickzan.github.io/research/2019-speech)             |  [Speech Enhancement by Deep Learning](https://patrickzan.github.io/research/2019-speech)
+:-------------------------:|:-------------------------:
+<img src="projects/p4-joint.png" width="500">   |  <img src="projects/p4-joint.png" width="500">
+
+
+Checkout <a href="/research/" style="text-decoration: none">here</a> for more and detailed research projects.

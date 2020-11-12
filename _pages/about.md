@@ -29,8 +29,7 @@ My research projects fall within signal processing field, but the research topic
 
 [Tracking without GPS](https://patrickzan.github.io/projects/2020-wireless)            |  [Indoor Motion Pattern](https://patrickzan.github.io/projects/2020-wireless)
 :-------------------------:|:-------------------------:
-<img src="projects/p1-tracking.jpg" width="500">  | <img src="projects/p1-tracking.jpg" width="500">  
-
+<img src="projects/p1-tracking.jpg" width="500">  | <img src="projects/p1-motion.png" width="500">
 
 <h3>Auditory Neuroscience</h3>
 
@@ -42,7 +41,7 @@ My research projects fall within signal processing field, but the research topic
 
 [Smart Hearing Aids using Auditory Attention](https://patrickzan.github.io/projects/2019-speech)             |  [Speech Enhancement by Deep Learning](https://patrickzan.github.io/projects/2019-speech)
 :-------------------------:|:-------------------------:
-<img src="projects/p4-joint.png" width="500">   |  <img src="projects/p4-joint.png" width="500">
+<img src="projects/p4-joint.png" width="500">   |  <img src="projects/p4-se.png" width="500">
 
 
 Checkout <a href="/research/" style="text-decoration: none">here</a> for more and detailed research projects.

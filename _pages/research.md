@@ -16,16 +16,20 @@ author_profile: true
 <img src="https://patrickzan.github.io/projects/p1-tracking.jpg" width="500">  | <img src="https://patrickzan.github.io/projects/p1-motion.png" width="500">
 
 <h3>Auditory Nueroscience</h3>
+
 [Information Theory in Auditory Neuroscience](https://patrickzan.github.io/projects/2017-2019-mi)             |  [Machine Learning in Auditory Neuroscience](https://patrickzan.github.io/projects/2016-2019-ml)
 :-------------------------:|:-------------------------:
 <img src="https://patrickzan.github.io/projects/p2-mi_cortex2.pdf" width="500">   |  <img src="https://patrickzan.github.io/projects/p3-memory1.jpg" width="500">
 
+
 <h3>Speech and Acoustics</h3>
+
 [Smart Hearing Aids using Auditory Attention](https://patrickzan.github.io/projects/2019-speech)             |  [Speech Enhancement by Deep Learning](https://patrickzan.github.io/projects/2019-speech)
 :-------------------------:|:-------------------------:
 <img src="https://patrickzan.github.io/projects/p4-joint.png" width="500">   |  <img src="https://patrickzan.github.io/projects/p4-se.png" width="500">
 
 <h3>Earlier Projects</h3>
+
 [Image Pansharpening](https://patrickzan.github.io/projects/2017-image)             |  [Microgrid with Electric Vehicles](https://patrickzan.github.io/projects/2014-microgrid)
 :-------------------------:|:-------------------------:
 <img src="https://patrickzan.github.io/projects/p5-pansharpening.png" width="500">   |  <img src="https://patrickzan.github.io/projects/p5-microgrid.png" width="500">

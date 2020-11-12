@@ -1,10 +1,10 @@
 ---
-title: "Microgrid with Electric Vehicles"
+title: "Integrated Energy Exchange Scheduling for Microgrids with Electric Vehicles"
 collection: projects
 permalink: /projects/2014-microgrid
 venue: "Xi'an Jiaotong University, Xi'an"
-date: 2014-01-01
-location: "Xi'an, China"
+date: 2015-07-10
+venue: 'IEEE Transactions on Smart Grid'
 ---
 
 <img src="/projects/p5-microgrid.jpg" width="400">

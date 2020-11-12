@@ -1,11 +1,13 @@
 ---
-title: "Image Pansharpening"
+title: "Locally Linear Detail Injection for Pansharpening"
 collection: projects
 permalink: /projects/2017-image
-venue: "Computational Sensorimotor Systems Laboratory (CSSL), University of Maryland, College Park"
-date: 2017-01-01
-location: "College Park, MD"
+date: 2017-06-07
+venue: 'IEEE Access'
 ---
+
+When: 2016
+Where: Computational Sensorimotor Systems Laboratory (CSSL), University of Maryland, College Park, MD, U.S.  
 
 <img src="/projects/p5-pansharpening.png" width="400">
 

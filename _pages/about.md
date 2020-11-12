@@ -27,7 +27,7 @@ My research projects fall within signal processing field, but the research topic
 
 <h3>Wireless AI for IoT (Ongoing)</h3>
 
-[Tracking without GPS](https://patrickzan.github.io/projects/2020-wireless)            |  [Indoor Motion Pattern](https://patrickzan.github.io/projects/2020-wireless)
+[Tracking without GPS](https://patrickzan.github.io/projects/2020-wireless)            |  [Indoor Motion Location](https://patrickzan.github.io/projects/2020-wireless)
 :-------------------------:|:-------------------------:
 <img src="projects/p1-tracking.jpg" width="500">  | <img src="projects/p1-motion.png" width="500">
 

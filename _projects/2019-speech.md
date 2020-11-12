@@ -10,6 +10,7 @@ location: "Eden Prairie, MN"
 The human brain processes speech on a routine basis. However, the ability of extracting information from noise or a competing speaker deteriorates as we age. Hearing aids may become a necessity in this case. In the summer of 2019, I joined Starkey Hearing Technologies as an intern, and participated in two projects that could potentially benefit the current or future hearing aid design. One was to test out an DNN-based speech enhancement algorithm implemented in a hearning App which could stream enhanced speech to the hearing aids. The other was more futuristic, that is, to design a beamforming-based speech enhancement system using auditory attention inferred by electroencephalography (EEG) observations. 
 
 * DNN-based Speech Enhancement
+<br>
 <img src="/projects/p4-se.png" width="400">
 
 I designed and conducted experiments to test out the Mixture of Deep Experts (<a href="https://arxiv.org/pdf/1703.09302.pdf" style="text-decoration: none">MoDE</a>) model, and provided suggestions to modify the algorithm for it to become product. 

@@ -7,9 +7,11 @@ date: 2017-01-01
 location: "College Park, MD"
 ---
 
-<!-- <img src="/projects/p3-memory.jpg" width="400">
+<img src="/projects/p5-pansharpening.png" width="400">
 
-Machine learning can be used in auditory neuroscience.  -->
+Abstract
+------
+This paper presents a novel method, referred to as locally linear detail injection (LLDI), for the pansharpening problem, which is based on the assumption that the spatial details of each multispectral (MS) band can be locally and linearly represented by the spatial details of panchromatic images. LLDI first exploits such assumption through scales using the modulation transfer function (MTF) of the MS instrument and then performs detail injections into the available low-resolution MS images. Visual analysis and quantitative evaluation performed on QuickBird and WorldView-2 data sets at both reduced and full scales show that the proposed LLDI achieves superior improvements over its baselines.
 
 Publications
 ------

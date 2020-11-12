@@ -7,6 +7,9 @@ date: 2020-08-01
 location: "Greenbelt, MD"
 ---
 
+- When: 2020
+- Where: Greenbelt, MD, U.S.
+
 * Indoor tracking and navigation based on IMU sensors on mobile devices  
 
 <img src="/projects/p1-tracking.jpg" width="400">

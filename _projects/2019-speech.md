@@ -2,10 +2,13 @@
 title: "Speech and Acoustics"
 collection: projects
 permalink: /projects/2019-speech
-venue: "Starkey Labs, Starkey Hearing Technologies"
-date: 2019-05-27
-location: "Eden Prairie, MN"
+date: 2020-05-14
+venue: 'ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+location: "Barcelona, Spain"
 ---
+
+- When: 2019 summer
+- Where: Starkey Labs, Starkey Hearing Technologies, Eden Prairie
 
 The human brain processes speech on a routine basis. However, the ability of extracting information from noise or a competing speaker deteriorates as we age. Hearing aids may become a necessity in this case. In the summer of 2019, I joined Starkey Hearing Technologies as an intern, and participated in two projects that could potentially benefit the current or future hearing aid design. One was to test out an DNN-based speech enhancement algorithm implemented in a hearning App which could stream enhanced speech to the hearing aids. The other was more futuristic, that is, to design a beamforming-based speech enhancement system using auditory attention inferred by electroencephalography (EEG) observations. 
 

@@ -6,8 +6,8 @@ date: 2017-06-07
 venue: 'IEEE Access'
 ---
 
-When: 2016
-Where: Computational Sensorimotor Systems Laboratory (CSSL), University of Maryland, College Park, MD, U.S.  
+- When: 2016  
+- Where: Computational Sensorimotor Systems Laboratory (CSSL), University of Maryland, College Park, MD, U.S.  
 
 <img src="/projects/p5-pansharpening.png" width="400">
 

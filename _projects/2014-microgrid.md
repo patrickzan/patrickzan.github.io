@@ -6,6 +6,8 @@ venue: "Xi'an Jiaotong University, Xi'an"
 date: 2015-07-10
 venue: 'IEEE Transactions on Smart Grid'
 ---
+- When: 2015  
+- Where: Xi'an Jiaotong University, Xi'an, China  
 
 <img src="/projects/p5-microgrid.jpg" width="400">
 

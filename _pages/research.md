@@ -13,27 +13,22 @@ author_profile: true
 
 [Tracking without GPS](https://patrickzan.github.io/projects/2020-wireless)            |  [Indoor Motion Localization](https://patrickzan.github.io/projects/2020-wireless)
 :-------------------------:|:-------------------------:
-<img src="projects/p1-tracking.jpg" width="500">  | <img src="projects/p1-motion.png" width="500">
+<img src="https://patrickzan.github.io/projects/p1-tracking.jpg" width="500">  | <img src="https://patrickzan.github.io/projects/p1-motion.png" width="500">
 
 <h3>Auditory Nueroscience</h3>
-<!-- <h4>Mutual Information Analysis of Auditory Brain Responses and Effects of Aging</h4>
-<h4>Machine Learning Applications in Auditory Research</h4> -->
-<!-- <img  -->
 [Information Theory in Auditory Neuroscience](https://patrickzan.github.io/projects/2017-2019-mi)             |  [Machine Learning in Auditory Neuroscience](https://patrickzan.github.io/projects/2016-2019-ml)
 :-------------------------:|:-------------------------:
-<img src="projects/p2-mi_cortex2.pdf" width="500">   |  <img src="projects/p3-memory1.jpg" width="500">
+<img src="https://patrickzan.github.io/projects/p2-mi_cortex2.pdf" width="500">   |  <img src="https://patrickzan.github.io/projects/p3-memory1.jpg" width="500">
 
 <h3>Speech and Acoustics</h3>
 [Smart Hearing Aids using Auditory Attention](https://patrickzan.github.io/projects/2019-speech)             |  [Speech Enhancement by Deep Learning](https://patrickzan.github.io/projects/2019-speech)
 :-------------------------:|:-------------------------:
-<img src="projects/p4-joint.png" width="500">   |  <img src="projects/p4-se.png" width="500">
+<img src="https://patrickzan.github.io/projects/p4-joint.png" width="500">   |  <img src="https://patrickzan.github.io/projects/p4-se.png" width="500">
 
 <h3>Earlier Projects</h3>
-<!-- <h4>Image Pansharpening</h4>
-<h4>Microgrid with Electric Vehicles</h4> -->
 [Image Pansharpening](https://patrickzan.github.io/projects/2017-image)             |  [Microgrid with Electric Vehicles](https://patrickzan.github.io/projects/2014-microgrid)
 :-------------------------:|:-------------------------:
-<img src="projects/p5-pansharpening.png" width="500">   |  <img src="projects/p5-microgrid.png" width="500">
+<img src="https://patrickzan.github.io/projects/p5-pansharpening.png" width="500">   |  <img src="https://patrickzan.github.io/projects/p5-microgrid.png" width="500">
 
 
 <h2>Publications</h2>

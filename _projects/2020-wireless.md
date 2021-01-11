@@ -18,9 +18,9 @@ When you are playing <a href="https://www.pubgmobile.com/en-US/" style="text-dec
 
 Check out the App demo here (Android and iOS).
 
-[Android Tracking](https://patrickzan.github.io/files/OriginTracking30AndroidApp.mp4)      |  [iOS Tracking](https://patrickzan.github.io/files/OriginTracking30iOSApp.mp4)
+[Android Tracking](https://patrickzan.github.io/projects/OriginTracking30AndroidApp.mp4)      |  [iOS Tracking](https://patrickzan.github.io/projects/OriginTracking30iOSApp.mp4)
 :-------------------------:|:-------------------------:
-[![](https://patrickzan.github.io/files/android_video_screen.png)](https://patrickzan.github.io/files/OriginTracking30AndroidApp.mp4)  | [![](https://patrickzan.github.io/files/ios_video_screen.png)](https://patrickzan.github.io/files/OriginTracking30iOSApp.mp4)
+[![](https://patrickzan.github.io/projects/android_video_screen.png)](https://patrickzan.github.io/projects/OriginTracking30AndroidApp.mp4)  | [![](https://patrickzan.github.io/projects/ios_video_screen.png)](https://patrickzan.github.io/projects/OriginTracking30iOSApp.mp4)
 
 * Motion localization for home security  
 <ol>

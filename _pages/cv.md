@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="http://patrickzan.github.io/files/resume.pdf" style="text-decoration: none">Here</a>'s a PDF version.
+<a href="http://patrickzan.github.io/files/Resume.pdf" style="text-decoration: none">Here</a>'s a PDF version.
 {% include base_path %}
 
 Education
@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* 02/2020 - Present: Principal Data Scientist
+* 02/2021 - Present: Princial Scientist
+* 02/2020 - 02/2021: Principal Data Scientist
   * Origin Wireless AI, Greenbelt, MD
   * WiFi-sensing for home security
     * Designed and optimized motion localization algorithm for WiFi-sensing devices.

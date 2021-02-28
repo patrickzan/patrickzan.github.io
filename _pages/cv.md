@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="http://patrickzan.github.io/files/Resume.pdf" style="text-decoration: none">Here</a>'s a PDF version.
+<a href="http://patrickzan.github.io/files/resume.pdf" style="text-decoration: none">Here</a>'s a PDF version.
 {% include base_path %}
 
 Education

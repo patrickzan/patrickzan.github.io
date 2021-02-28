@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng (Patrick) Zan"
+title                    : "Peng Zan"
 title_separator          : "-"
-name                     : &name "Peng (Patrick) Zan"
-description              : &description "Full-time Principal Data Analytist (Scientist + Engineer), Part-time Auditory Neuroscientist"
+name                     : &name "Peng Zan"
+description              : &description "Full-time Principal Scientist, Part-time Auditory Neuroscientist"
 url                      : https://patrickzan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "patrickzan.github.io"

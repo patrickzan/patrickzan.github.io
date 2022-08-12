@@ -13,12 +13,12 @@ Hello! Welcome to my personal webpage! I am currently a Sr. Software Engineer - 
 
 I obtained my Ph.D. and M.Sc. degrees in Electrical Engineering from University of Maryland, College Park both in 2019, and my B.Sc. degree in Electrical Engineering from Xi'an Jiaotong University, Xi'an, China in 2014. My Ph.D. research focuses on neural signal processing and auditory neuroscience supervised by <a href="https://ece.umd.edu/clark/faculty/481/Jonathan-Simon" style="text-decoration: none">Prof. Jonathan Z. Simon</a>. I am a trained signal processing engineer and an auditory neuroscientist, and I have sufficient expertise in computer science and data science to have fun both in work and at home.
 
-<h2>Research interests</h2>
+<h2>Interests</h2>
 <ul>
   <li>Signal Processing</li>
-  <li>Machine Learning</li>
+  <li>Mathematical Optimization</li>
   <li>Auditory & Computational Neuroscience, Speech & Acoustics</li>
-  <li>Internet of Things</li>
+  <li>Biological & Artificial Intelligence</li>
 </ul>
 
 <h2>Projects</h2>

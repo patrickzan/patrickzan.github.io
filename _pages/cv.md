@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-* 02/2021 - Present: Princial Scientist
+* 08/2022 - Present: Sr. Software Engineer - AI Framework
+  * Black Sesame Technologies, Inc., San Jose, CA
+* 02/2021 - 06/2021: Princial Scientist
+  * Origin Wireless AI, Greenbelt, MD
 * 02/2020 - 02/2021: Principal Data Scientist
   * Origin Wireless AI, Greenbelt, MD
   * WiFi-sensing for home security
@@ -123,6 +126,14 @@ Conferences
   <li><strong>Peng Zan</strong>, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. <a href="http://cansl.isr.umd.edu/simonlab/pubs/SPLASH2018-MI-Midbrain.pdf" style="text-decoration: none">Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain</a>. <i>Auditory SPLASH, University of Pennsylvania, Philadelphia, Pennsylvania, U.S., 2018</i>.</li> 
 </ol>
 
+<h2>Patent</h2>
+<!-- {% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %} -->
+<ol>
+  <li>Chenshu Wu, Beibei Wang, <strong>Peng Zan</strong>, Sai Deepika Regani, Xiaolu ZENG, Hung-Quoc Duc Lai, KJ Ray Liu, Oscar Chi-Lim Au. <a href="https://patentimages.storage.googleapis.com/a1/e3/f3/29cb55fbf775ce/US20210311166A1.pdf" style="text-decoration: none">Method, apparatus, and system for wireless micro motion monitoring</a>.<i>US20210311166A1</i></li>
+</ol>
+
 Teaching
 ======
 <span style="text-decoration: none">
@@ -137,3 +148,4 @@ Selected awards & honors
 * NSF-Funded COMBINE Fellowship (Computational Biological Network Program), UMD, 09/2017
 * Jimmy H. C. Lin Graduate Scholarship for Entrepreneurship, UMD, 09/2014
 * ECE Ph.D. Fellowship Award, UMD, 09/2014
+* National Scholarship, Ministry of Education of the P.R.C., XJTU, 11/2011

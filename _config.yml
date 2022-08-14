@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pic2.png"
   bio              : "Sr. Software Engineer - AI Framework"
   location         : "San Jose, California"
-  employer         : "[Black Sesame Technologies](https://bst.ai/home.html)"
+  employer         : [Black Sesame Technologies](https://bst.ai/home.html)
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LeuGkgUAAAAJ&hl=en"
   email            : "zanpeng.pz@gmail.com"

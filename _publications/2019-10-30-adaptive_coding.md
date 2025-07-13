@@ -5,7 +5,7 @@ permalink: /research/2019-10-30-adaptive_coding
 excerpt: 'This paper is about adaptive efficient coding of ferret auditory cortex.'
 date: 2019-10-30
 venue: 'Journal of Neuroscience'
-# paperurl: 'http://patrickzan.github.io/files/adaptive_coding.pdf'
+# paperurl: 'http://pzan.io/files/adaptive_coding.pdf'
 # citation: 'Kai Lu, Wanyi Liu, Kelsey Dutta, Peng Zan, Jonathan B Fritz, and Shihab A. Shamma. (2019). &quot;Adaptive efficient coding of correlated acoustic properties.&quot; <i>Journal of Neuroscience</i>. 39(44):8664–8678.'
 ---
 
@@ -15,4 +15,4 @@ Natural sounds such as vocalizations often have covarying acoustic attributes, r
 
 Publication
 ------
-Kai Lu, Wanyi Liu, Kelsey Dutta, **Peng Zan**, Jonathan B Fritz, and Shihab A. Shamma. (2019). &quot;Adaptive efficient coding of correlated acoustic properties.&quot; <i>Journal of Neuroscience</i>. 39(44):8664–8678. [Download Paper](http://patrickzan.github.io/files/adaptive_coding.pdf)
+Kai Lu, Wanyi Liu, Kelsey Dutta, **Peng Zan**, Jonathan B Fritz, and Shihab A. Shamma. (2019). &quot;Adaptive efficient coding of correlated acoustic properties.&quot; <i>Journal of Neuroscience</i>. 39(44):8664–8678. [Download Paper](http://pzan.io/files/adaptive_coding.pdf)

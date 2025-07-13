@@ -15,4 +15,4 @@ Beamforming is a common technique used to improve speech intelligibility and lis
 
 Publication
 ------
-Wenqiang Pu, **Peng Zan**, Jinjun Xiao, Tao Zhang, Zhi-Quan Luo. (2020). &quot;Evaluation of Joint Auditory Attention Decoding and Adaptive Binaural Beamforming Approach for Hearing Devices with Attention Switching.&quot; <i>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. pp. 8728-8732, doi: 10.1109/ICASSP40776.2020.9054592. [Download Paper](http://patrickzan.github.io/files/auditory_attention_speech_enhancement.pdf)
+Wenqiang Pu, **Peng Zan**, Jinjun Xiao, Tao Zhang, Zhi-Quan Luo. (2020). &quot;Evaluation of Joint Auditory Attention Decoding and Adaptive Binaural Beamforming Approach for Hearing Devices with Attention Switching.&quot; <i>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. pp. 8728-8732, doi: 10.1109/ICASSP40776.2020.9054592. [Download Paper](http://pzan.io/files/auditory_attention_speech_enhancement.pdf)

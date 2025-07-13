@@ -5,7 +5,7 @@ permalink: /research/2019-12-04-mi_aging_midbrain
 excerpt: 'This paper is about aging effects on auditory midbrain.'
 date: 2019-12-04
 venue: 'Journal of Neurophysiology'
-# paperurl: 'http://patrickzan.github.io/files/mi_aging_midbrain.pdf'
+# paperurl: 'http://pzan.io/files/mi_aging_midbrain.pdf'
 # citation: 'Peng Zan, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. (2019). &quot;Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain.&quot; <i>Journal of Nuerophysiology</i>. 122(6):2372-2387.'
 ---
 
@@ -15,4 +15,4 @@ Younger adults with normal hearing can typically understand speech in the presen
 
 Publication
 ------
-**Peng Zan**, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. (2019). "Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain" <i>Journal of Nuerophysiology</i>. 122(6):2372-2387. [Download Paper](http://patrickzan.github.io/files/mi_aging_midbrain.pdf)
+**Peng Zan**, Alessandro Presacco, Samira Anderson, and Jonathan Z. Simon. (2019). "Mutual Information Analysis of Neural Representations of Speech in Noise in the Aging Midbrain" <i>Journal of Nuerophysiology</i>. 122(6):2372-2387. [Download Paper](http://pzan.io/files/mi_aging_midbrain.pdf)

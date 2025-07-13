@@ -5,7 +5,7 @@ permalink: /research/2015-07-10-microgrid
 excerpt: 'This paper proposes an optimized microgrid operation strategy with electric vehicles.'
 date: 2015-07-10
 venue: 'IEEE Transactions on Smart Grid'
-# paperurl: 'http://patrickzan.github.io/files/microgrid.pdf'
+# paperurl: 'http://pzan.io/files/microgrid.pdf'
 # citation: 'Dai Wang, Xiaohong Guan, Jiang Wu, Pan Li, <strong>Peng Zan</strong>, and Hui Xu. (2015). &quot;Integrated energy exchange scheduling for microgrids with electric vehicles.&quot; <i>IEEE Transactions on Smart Grid</i>. 7(4):1762-1774.'
 ---
 
@@ -15,4 +15,4 @@ Electric vehicles (EVs) can be considered as flexible mobile battery storages in
 
 Publication
 ------
-Dai Wang, Xiaohong Guan, Jiang Wu, Pan Li, **Peng Zan**, and Hui Xu. (2015). &quot;Integrated energy exchange scheduling for microgrids with electric vehicles.&quot; <i>IEEE Transactions on Smart Grid</i>. 7(4):1762-1774. [Download Paper](http://patrickzan.github.io/files/microgrid.pdf)
+Dai Wang, Xiaohong Guan, Jiang Wu, Pan Li, **Peng Zan**, and Hui Xu. (2015). &quot;Integrated energy exchange scheduling for microgrids with electric vehicles.&quot; <i>IEEE Transactions on Smart Grid</i>. 7(4):1762-1774. [Download Paper](http://pzan.io/files/microgrid.pdf)

@@ -25,19 +25,19 @@ My previous research projects were within signal processing field.
 
 <h3>Wireless AI for IoT (Wireless Signal)</h3>
 
-[Tracking without GPS](https://patrickzan.github.io/projects/2020-wireless)            |  [Indoor Motion Localization](https://patrickzan.github.io/projects/2020-wireless)
+[Tracking without GPS](https://pzan.io/projects/2020-wireless)            |  [Indoor Motion Localization](https://pzan.io/projects/2020-wireless)
 :-------------------------:|:-------------------------:
 <img src="projects/p1-tracking.jpg" width="500">  | <img src="projects/p1-motion.png" width="500">
 
 <h3>Auditory Neuroscience (Neural Signal)</h3>
 
-[Information Theory in Auditory Neuroscience](https://patrickzan.github.io/projects/2017-2019-mi)             |  [Machine Learning in Auditory Neuroscience](https://patrickzan.github.io/projects/2016-2019-ml)
+[Information Theory in Auditory Neuroscience](https://pzan.io/projects/2017-2019-mi)             |  [Machine Learning in Auditory Neuroscience](https://pzan.io/projects/2016-2019-ml)
 :-------------------------:|:-------------------------:
 <img src="projects/p2-mi_cortex2.pdf" width="500">   |  <img src="projects/p3-memory1.jpg" width="500">
 
 <h3>Speech and Acoustics (Speech Signal)</h3>
 
-[Smart Hearing Aids using Auditory Attention](https://patrickzan.github.io/projects/2019-speech)             |  [Speech Enhancement by Deep Learning](https://patrickzan.github.io/projects/2019-speech)
+[Smart Hearing Aids using Auditory Attention](https://pzan.io/projects/2019-speech)             |  [Speech Enhancement by Deep Learning](https://pzan.io/projects/2019-speech)
 :-------------------------:|:-------------------------:
 <img src="projects/p4-joint.png" width="500">   |  <img src="projects/p4-se.png" width="500">
 

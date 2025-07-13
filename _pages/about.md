@@ -9,23 +9,21 @@ redirect_from:
 ---
 
 <h2>Bio</h2>
-Hello! Welcome to my personal webpage! I am currently a Sr. Software Engineer - AI Framework at <a href="https://bst.ai/home.html" style="text-decoration: none">Black Sesame Technologies</a>, an autonomous driving company located at San Jose. I'm currently working on neural network quantization. Before that, I was a Principal Scientist at <a href="https://www.originwirelessai.com" style="text-decoration: none">Origin Wireless AI</a>. I work with the Algorithm team at Origin, and my work includes wirelss sensing research, machine learning algorithm development and engineering implementations.
+Welcome to my personal webpage! I am currently a Sr. Software Engineer at Waymo working on ML Infra. 
 
-I obtained my Ph.D. and M.Sc. degrees in Electrical Engineering from University of Maryland, College Park both in 2019, and my B.Sc. degree in Electrical Engineering from Xi'an Jiaotong University, Xi'an, China in 2014. My Ph.D. research focuses on neural signal processing and auditory neuroscience supervised by <a href="https://ece.umd.edu/clark/faculty/481/Jonathan-Simon" style="text-decoration: none">Prof. Jonathan Z. Simon</a>. I am a trained signal processing engineer and an auditory neuroscientist, and I have sufficient expertise in computer science and data science to have fun both in work and at home.
+I obtained my Ph.D. and M.Sc. degrees in Electrical Engineering from University of Maryland, College Park both in 2019, and my B.Sc. degree in Electrical Engineering from Xi'an Jiaotong University, Xi'an, China in 2014. My Ph.D. research focuses on neural signal processing supervised by <a href="https://ece.umd.edu/clark/faculty/481/Jonathan-Simon" style="text-decoration: none">Prof. Jonathan Z. Simon</a>. 
 
 <h2>Interests</h2>
 <ul>
-  <li>Signal Processing</li>
-  <li>Mathematical Optimization</li>
-  <li>Auditory & Computational Neuroscience, Speech & Acoustics</li>
-  <li>Biological & Artificial Intelligence</li>
+  <li>AI on Edge</li>
+  <li>Mathematical Optimization for Signal Processing</li>
 </ul>
 
 <h2>Projects</h2>
-My research projects fall within signal processing field, but the research topics vary from wireless signals, neural signals to speech signals.
+My previous research projects were within signal processing field.
 
 
-<h3>Wireless AI for IoT (Wireless Signal, Ongoing)</h3>
+<h3>Wireless AI for IoT (Wireless Signal)</h3>
 
 [Tracking without GPS](https://patrickzan.github.io/projects/2020-wireless)            |  [Indoor Motion Localization](https://patrickzan.github.io/projects/2020-wireless)
 :-------------------------:|:-------------------------:

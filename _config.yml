@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Peng Zan"
   avatar           : "profile_pic2.png"
-  bio              : "Sr. Software Engineer - AI Framework"
-  location         : "San Jose, California"
-  employer         : "Black Sesame Technologies"
+  bio              : "Sr. Software Engineer"
+  location         : "Mountain View, California"
+  employer         : "Waymo"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LeuGkgUAAAAJ&hl=en"
   email            : "zanpeng.pz@gmail.com"
